@@ -1,3 +1,11 @@
+*created a simple app for searching recipies.
+*we need an API to retrieve the data.
+*for this i'm using www.edamam.com.
+*sign in into that account.
+*for authentication we need api-id & api-key and include that in app.js file.
+*for css color gradients we used - webgradients.com
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
